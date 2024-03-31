@@ -1,7 +1,6 @@
 # Grow Together
 
-## 동의대학교의 Google Devleopment Student Club에
-오신 것을 환영합니다!
+## 동의대학교의 Google Devleopment Student Club에 오신 것을 환영합니다!
 
 GDSC DEU 에서는 구글 개발자 기술에 관심이 있는
 모든 학생의 참여를 환영하며, 연결(Connect), 배움(Learn),
